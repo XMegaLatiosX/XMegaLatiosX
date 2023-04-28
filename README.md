@@ -5,7 +5,7 @@
 
   📞+55 (19) 97123-0319
 
-  **@** licemaraparecida@gmail.com
+  **@** juio.alves.souza@gmail.com
 
 <!---
 XMegaLatiosX/XMegaLatiosX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
