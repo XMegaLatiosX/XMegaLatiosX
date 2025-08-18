@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Júio Souza!
-- 😃 I really like Games and programming
-- 🌱 I’m currently learning how to make games in Unity
+- 👋 Hi, I’m Júio Alves de Souza!
+- 😃 front end dev, my goal is to improve every single day
+- 🌱 I’m currently learning Typescript, Tailwind and React.js
 - 📫 contact me:
 
   📞+55 (19) 97123-0319
