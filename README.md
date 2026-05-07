@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Júio Alves de Souza!
-- 😃 front end dev, my goal is to improve every single day
-- 🌱 I’m currently learning Typescript, Tailwind and React.js
+- 😃 fullstack developer, my goal is to improve every single day
+- 🌱 I’m currently learning Tailwind and React.js
 - 📫 contact me:
 
   📞+55 (19) 97123-0319
